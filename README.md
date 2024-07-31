@@ -34,8 +34,8 @@ Welcome to my GitHub portfolio! Here you'll find a showcase of my projects and s
 ## Projects
 
 ### C#
-- [GLORY TO UKRAINE - Informational System for School](https://github.com/YakubT/CourseWorkProgramming)
-- [Repo with a lot of winforms and wpf applications](https://github.com/YakubT/Basics_of_programming_kp-12_yakubyshyn/tree/main/Lab5/Lab4)
+- [GLORY TO UKRAINE - WPF/MVVM ](https://github.com/YakubT/CourseWorkProgramming)
+- [Informational System for School](https://github.com/YakubT/Basics_of_programming_kp-12_yakubyshyn/tree/main/Lab5/Lab4)
 
 ### React
 - [Mini Project: Calculator](https://yakubt.github.io/Calculator/)
