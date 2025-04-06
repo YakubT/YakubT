@@ -16,7 +16,7 @@ Welcome to my GitHub portfolio! Here you'll find a showcase of my projects and s
 - React.js
 
 ### Java
-- Java, Maven, Log4j, XML
+- Java, Maven, Log4j, XML, Spring
 - TestNG, Junit, Selenium, Appium
 - MyBatis (similar to Hibernate)
 
